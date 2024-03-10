@@ -21,8 +21,10 @@ header, footer {
     padding-top: 0.9375em ;
 }
 
-span, li, img {
-    cursor: pointer;
+header, footer {
+    span, li, img {
+        cursor: pointer;
+    }
 }
 
 /* HEADER */
