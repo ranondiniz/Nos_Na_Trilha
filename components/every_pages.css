@@ -1,0 +1,140 @@
+/* CSS PADRÃO TODAS PÁGINAS */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Scada", sans-serif;
+    font-weight: 400;
+
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+header, footer {
+    background-color: #3E4533;
+    color: #FFFFFF;
+    font-size: 1.5625em;
+    padding-top: 0.9375em ;
+}
+
+span, li, img {
+    cursor: pointer;
+}
+
+/* HEADER */
+
+.nav_header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div_busca {
+    display: flex;
+    align-items: center;
+    width: 30%;
+    height: 1.8em;
+    border-radius: 0.9375em;
+    background-color: #fff;
+}
+  
+ 
+.div_busca input {
+    width: 100%;
+    border: none;
+    border-radius: 1.25em;
+    outline: none;
+    padding: 0 0.62em;
+    color: #333;
+} 
+
+.div_busca img {
+    height: 1.2em;
+    margin-right: 0.62em;
+}
+
+.logo_principal {
+    height: 170px;
+}
+
+.nav_header_2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.opcoes_nav {
+    display: flex;
+    gap: 2em;
+    list-style: none;
+}
+
+.icons_nav {
+    display: flex;
+    gap: 1em;
+}
+
+.icons_nav #img_perfil {
+    width: 1.4em;
+}
+
+.icons_nav #img_sino {
+  width: 1.2em;
+}
+
+.icons_nav #img_cart {
+    width: 1.5em;
+}
+
+/* FOOTER */
+
+footer {
+    left: 0;
+    right: 0;
+
+    text-align: center;
+    font-style: normal;
+}
+
+footer > div {
+    font-family: "Marcellus SC", serif;
+    font-weight: 400;
+}
+
+footer section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+footer .left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+}
+
+footer .left div {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 0.62em;
+}
+
+footer .right img {
+    margin: 0.31em 1.25em 0;
+}
+
+footer .margin_top {
+    margin-top: 1.2em;
+}
+
+
+@media (min-width: 1500px) {
+    body {
+        font-size: 18px;
+    }
+}
