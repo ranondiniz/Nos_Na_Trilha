@@ -66,3 +66,19 @@
     font-size: 1.2em;
 }
 
+.btn_ver_mais {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.btn_ver_mais button {
+    padding: 0.8em;
+    border-radius: 2em;
+    border: 0;
+    background-color: #3E4533;
+    width: 8em;
+    color: #FFFFFF;
+    font-size: 1.1em;
+    cursor: pointer;
+}
