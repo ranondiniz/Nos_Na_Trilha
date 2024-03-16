@@ -112,6 +112,7 @@
         padding: 0 2em;
         padding-top: 3em;
     }
+
     #input{
         margin-bottom: 2em !important;
     }
@@ -126,19 +127,16 @@
         font-size: 16px;
     }
 
-    .box-cards {
-        flex-direction: row;
-        align-items: flex-start; 
-    }
-
     .card-info-cliente {
+        margin: auto;
+        margin-top: 1em;
         width: 50%; 
-        display: block;
     }
 
     .card-form-cliente {
-        width: 50%; 
-        display: block;
+        margin: auto;
+        margin-top: 1em;
+        width: 62%; 
     }
 
     #input{
