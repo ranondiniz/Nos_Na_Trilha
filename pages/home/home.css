@@ -82,3 +82,51 @@
     font-size: 1.1em;
     cursor: pointer;
 }
+
+.avaliacao_clientes {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 20%;
+    background-color: #FFFFFF;
+    gap: 30px;
+}
+
+.avaliacao_clientes #titulo_avaliacao {
+    background-color: #0F270F;
+    color: #FFFBFB;
+    border-radius: 0 0 40px 0;
+    padding: 8px 20px;
+    width: 40%;
+
+    font-size: 1.1em;
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: 500;
+}
+
+.autor_avaliacao {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.circulo_img img {
+    height: 100%;
+    width: 100%;
+}
+
+#img_avaliador {
+    height: 150px;
+    width: 200px;
+}
+
+.avaliacao_clientes #compre_conosco {
+    text-align: center;
+    border-radius: 30px 30px 0 0;
+    width: 30%;
+    margin-left: 35%;
+    background-color: #0F270F;
+    padding: 10px 5px;
+
+    color: #F1E9E4;
+}
