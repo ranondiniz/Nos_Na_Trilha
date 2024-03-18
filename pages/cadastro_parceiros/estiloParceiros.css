@@ -1,0 +1,189 @@
+.box-central{
+    padding: 1em 2em;
+}
+
+.box-cards{
+    display: flex;
+    flex-direction: row;
+}
+
+.card-info-parceiros{
+    margin-top: 1em;
+    width: 50%;
+}
+
+.card-info-parceiros img{
+    width: 100%;
+}
+
+.card-form-parceiros{
+    margin-top: 1em;
+    width: 50%;
+    background-color: white;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 2em;
+}
+
+.card-form-parceiros h3{
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    margin-top: 1em;
+}
+
+.card-form-parceiros form label{
+    display: block;
+    color: black;
+    margin-top: 1em;
+}
+
+.form-line{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.box-form-line{
+    width: 100%;
+}
+
+.input{
+    height: 33px;
+    color: black;
+    width: 100%;
+}
+
+.input-line{
+    width: 95%;
+    margin-left: 5%;
+}
+
+.label-line{
+    margin-left: 5%;
+}
+
+.input-line-tall{
+    height: 33px;
+    color: black;
+    width: 140%;
+}
+
+.label-line-small{
+    margin-left: 50%;
+}
+
+.input-line-small{
+    width: 50%;
+    margin-left: 50%;
+}
+
+.card-sobre-parceiros{
+    padding: 0 2em;
+    padding-top: 3em;
+}
+
+.card-sobre-parceiros h3{
+    color: #859479;
+    text-align: left;
+
+}
+
+.box-form-sobre{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.radio{
+    margin: 4% 1% 0 5%;
+}
+.left{
+    margin-left: 0%;
+}
+
+.box-form-sobre-radio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.form-sobre p{
+    color: black;
+    font-size: 12px;
+    margin-top: 1%;
+}
+
+.form-sobre span{
+    color: black;
+}
+
+.sobre-submit{
+    background-color: #0F270F;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    padding-left: 2%;
+    float: right;
+    border-top-left-radius: 50px;
+    color: #ffffff;
+}
+.clear{
+    clear: both;
+}
+
+@media screen and (min-width: 1351px){
+    main section {
+        font-size: 21px;
+    }
+    .card-sobre-parceiros{
+        margin-top: 2em;
+        padding: 0 2em;
+        padding-top: 3em;
+    }
+    #input{
+        margin-bottom: 2em !important;
+    }
+
+    .box-form-sobre{
+        margin-bottom: 1.5em !important;
+    }
+}
+
+@media screen and (max-width: 1350px){
+    main section{
+        font-size: 16px;
+    }
+
+    .card-info-parceiros{
+        margin: auto;
+        margin-top: 1em;
+        width: 65%;
+    }
+
+    .card-form-parceiros{
+        margin: auto;
+        margin-top: 1em;
+        width: 85%;
+    }
+    #input{
+        margin-bottom: 2em !important;
+    }
+
+    .box-form-sobre{
+        margin-bottom: 1.5em !important;
+    }
+
+}
+
+@media screen and (max-width: 800px){
+    .card-form-parceiros{
+        margin: auto;
+        margin-top: 1em;
+        width: 100%;
+    }
+}
