@@ -8,398 +8,398 @@
 
 .CADASTRO-DO-ROTEIRO .div {
   background-color: #f1e9e4;
-  height: 1746px;
   overflow: hidden;
-  position: relative;
   width: 1531px;
+  height: 1746px;
+  position: relative;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap {
-  background-color: #3e4533;
-  height: 398px;
-  left: 0;
   position: absolute;
-  top: 1348px;
   width: 1531px;
+  height: 398px;
+  top: 1348px;
+  left: 0;
+  background-color: #3e4533;
 }
 
 .CADASTRO-DO-ROTEIRO .group {
-  height: 314px;
-  left: 133px;
   position: relative;
-  top: 51px;
   width: 1277px;
+  height: 314px;
+  top: 51px;
+  left: 133px;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-group {
-  height: 20px;
-  left: 227px;
   position: absolute;
-  top: 0;
   width: 810px;
+  height: 20px;
+  top: 0;
+  left: 227px;
 }
 
-.CADASTRO-DO-ROTEIRO .p {
-  color: #ffffff;
-  font-family: "Marcellus SC-Regular", Helvetica;
-  font-size: 33px;
-  font-weight: 400;
+.CADASTRO-DO-ROTEIRO .text-wrapper {
+  position: absolute;
+  width: 810px;
   height: 20px;
+  top: 0;
   left: 0;
+  font-family: "Marcellus SC-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 33px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 0;
   white-space: nowrap;
-  width: 810px;
 }
 
 .CADASTRO-DO-ROTEIRO .rua-das-colhetas {
-  color: #fffafa;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 25px;
-  font-weight: 400;
+  position: absolute;
+  width: 629px;
   height: 93px;
+  top: 86px;
   left: 0;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 25px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 86px;
-  width: 629px;
 }
 
 .CADASTRO-DO-ROTEIRO .facebook-wrapper {
-  background-image: url(./facebook-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 50px;
-  left: 914px;
   position: absolute;
-  top: 140px;
   width: 50px;
+  height: 50px;
+  top: 140px;
+  left: 914px;
+  background-image: url(./img/facebook-1-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .CADASTRO-DO-ROTEIRO .img {
+  position: absolute;
+  width: 50px;
   height: 50px;
+  top: 0;
   left: 0;
   object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 50px;
 }
 
 .CADASTRO-DO-ROTEIRO .whatsapp-wrapper {
-  background-image: url(./whatsapp-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 50px;
-  left: 1144px;
   position: absolute;
-  top: 140px;
   width: 50px;
+  height: 50px;
+  top: 140px;
+  left: 1144px;
+  background-image: url(./img/whatsapp-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .CADASTRO-DO-ROTEIRO .twitter-wrapper {
-  background-image: url(./twitter-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 50px;
-  left: 1029px;
   position: absolute;
-  top: 209px;
   width: 50px;
+  height: 50px;
+  top: 209px;
+  left: 1029px;
+  background-image: url(./img/twitter-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .CADASTRO-DO-ROTEIRO .youtube-wrapper {
-  background-image: url(./youtube-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 50px;
-  left: 1144px;
   position: absolute;
-  top: 209px;
   width: 50px;
+  height: 50px;
+  top: 209px;
+  left: 1144px;
+  background-image: url(./img/youtube-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .CADASTRO-DO-ROTEIRO .instagram-wrapper {
-  background-image: url(./instagram-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 50px;
-  left: 1029px;
   position: absolute;
-  top: 140px;
   width: 50px;
+  height: 50px;
+  top: 140px;
+  left: 1029px;
+  background-image: url(./img/instagram-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .CADASTRO-DO-ROTEIRO .logotipo-do-wrapper {
-  background-image: url(./logotipo-do-pinterest-1.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 50px;
-  left: 914px;
   position: absolute;
-  top: 212px;
   width: 50px;
+  height: 50px;
+  top: 212px;
+  left: 914px;
+  background-image: url(./img/logotipo-do-pinterest-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .CADASTRO-DO-ROTEIRO .n-s-NA-TRILHA {
-  color: #fffafa;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 25px;
-  font-weight: 400;
+  position: absolute;
+  width: 629px;
   height: 65px;
+  top: 234px;
   left: 0;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 25px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 234px;
-  width: 629px;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-2 {
-  height: 26px;
-  left: 849px;
   position: absolute;
-  top: 87px;
   width: 410px;
+  height: 26px;
+  top: 87px;
+  left: 849px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-2 {
-  color: #fffafa;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 25px;
-  font-weight: 400;
+  position: absolute;
+  width: 410px;
   height: 26px;
+  top: 0;
   left: 0;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 25px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 0;
   white-space: nowrap;
-  width: 410px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-3 {
-  color: #fffafa;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 25px;
-  font-weight: 400;
+  position: absolute;
+  width: 345px;
   height: 25px;
+  top: 289px;
   left: 881px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 25px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 289px;
   white-space: nowrap;
-  width: 345px;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-3 {
+  position: absolute;
+  width: 1287px;
+  height: 913px;
+  top: 371px;
+  left: 122px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 913px;
-  left: 122px;
-  position: absolute;
-  top: 371px;
-  width: 1287px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-4 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 249px;
   height: 32px;
+  top: 643px;
   left: 77px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 643px;
-  width: 249px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle {
+  position: absolute;
+  width: 399px;
   height: 340px;
+  top: 81px;
   left: 64px;
   object-fit: cover;
-  position: absolute;
-  top: 81px;
-  width: 399px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-5 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 249px;
   height: 32px;
+  top: 40px;
   left: 72px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 40px;
-  width: 249px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-2 {
+  position: absolute;
+  width: 1153px;
+  height: 129px;
+  top: 683px;
+  left: 64px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 129px;
-  left: 64px;
-  position: absolute;
-  top: 683px;
-  width: 1153px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-3 {
+  position: absolute;
+  width: 352px;
+  height: 84px;
+  top: 535px;
+  left: 865px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 84px;
-  left: 865px;
-  position: absolute;
-  top: 535px;
-  width: 352px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-4 {
+  position: absolute;
+  width: 375px;
+  height: 85px;
+  top: 534px;
+  left: 64px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 85px;
-  left: 64px;
-  position: absolute;
-  top: 534px;
-  width: 375px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-5 {
+  position: absolute;
+  width: 346px;
+  height: 52px;
+  top: 81px;
+  left: 484px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 52px;
-  left: 484px;
-  position: absolute;
-  top: 81px;
-  width: 346px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-6 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 249px;
   height: 32px;
+  top: 47px;
   left: 486px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 47px;
-  width: 249px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-7 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 290px;
   height: 32px;
+  top: 239px;
   left: 488px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 239px;
-  width: 290px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-8 {
-  -webkit-text-stroke: 1px #000000;
-  color: #000000;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 290px;
   height: 32px;
+  top: 430px;
   left: 487px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 430px;
-  width: 290px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-9 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 290px;
   height: 32px;
+  top: 385px;
   left: 864px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 385px;
-  width: 290px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-10 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 290px;
   height: 32px;
+  top: 500px;
   left: 871px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 500px;
-  width: 290px;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-4 {
-  height: 52px;
-  left: 78px;
   position: absolute;
-  top: 465px;
   width: 753px;
+  height: 52px;
+  top: 465px;
+  left: 78px;
 }
 
 .CADASTRO-DO-ROTEIRO .requisitos-de-viagem {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 16px;
-  font-weight: 400;
+  position: absolute;
+  width: 409px;
   height: 32px;
+  top: 2px;
   left: 0;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 16px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 2px;
-  width: 409px;
 }
 
 .CADASTRO-DO-ROTEIRO .span {
-  color: #0f270f;
   font-family: "Scada-Regular", Helvetica;
-  font-size: 16px;
   font-weight: 400;
+  color: #0f270f;
+  font-size: 16px;
   letter-spacing: 0;
 }
 
@@ -408,664 +408,683 @@
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-6 {
+  position: absolute;
+  width: 346px;
+  height: 52px;
+  top: 0;
+  left: 407px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 52px;
-  left: 407px;
-  position: absolute;
-  top: 0;
-  width: 346px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-12 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 290px;
   height: 32px;
+  top: 529px;
   left: 490px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 529px;
-  width: 290px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-7 {
+  position: absolute;
+  width: 346px;
+  height: 52px;
+  top: 273px;
+  left: 485px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 52px;
-  left: 485px;
-  position: absolute;
-  top: 273px;
-  width: 346px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-8 {
+  position: absolute;
+  width: 346px;
+  height: 52px;
+  top: 567px;
+  left: 484px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 52px;
-  left: 484px;
-  position: absolute;
-  top: 567px;
-  width: 346px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-9 {
+  position: absolute;
+  width: 346px;
+  height: 52px;
+  top: 419px;
+  left: 860px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 52px;
-  left: 860px;
-  position: absolute;
-  top: 419px;
-  width: 346px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-13 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 249px;
   height: 32px;
+  top: 143px;
   left: 484px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 143px;
-  width: 249px;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-5 {
-  height: 52px;
-  left: 486px;
   position: absolute;
-  top: 178px;
   width: 339px;
+  height: 52px;
+  top: 178px;
+  left: 486px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-10 {
+  position: absolute;
+  width: 299px;
+  height: 52px;
+  top: 0;
+  left: 40px;
   background-color: #fffaf7;
+  border-radius: 10px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 10px;
-  height: 52px;
-  left: 40px;
-  position: absolute;
-  top: 0;
-  width: 299px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-14 {
-  color: #000000;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 41px;
   height: 32px;
+  top: 9px;
   left: 0;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 9px;
-  width: 41px;
 }
 
 .CADASTRO-DO-ROTEIRO .group-wrapper {
-  height: 317px;
-  left: 860px;
   position: absolute;
-  top: 53px;
   width: 331px;
+  height: 317px;
+  top: 53px;
+  left: 860px;
 }
 
 .CADASTRO-DO-ROTEIRO .group-2 {
-  height: 317px;
   position: relative;
   width: 349px;
+  height: 317px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 45px;
   background-color: #fffaf7;
+  border-radius: 12.5px;
+  left: 2px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 2px;
-  position: absolute;
-  top: 45px;
-  width: 25px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-15 {
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
+  position: absolute;
+  width: 291px;
   height: 32px;
+  top: 83px;
   left: 40px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 83px;
-  width: 291px;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-6 {
-  height: 32px;
-  left: 40px;
   position: absolute;
-  top: 42px;
   width: 291px;
+  height: 32px;
+  top: 42px;
+  left: 40px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-16 {
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
+  position: absolute;
+  width: 291px;
   height: 32px;
+  top: 0;
   left: 0;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 0;
-  width: 291px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse-2 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 86px;
   background-color: #fffaf7;
+  border-radius: 12.5px;
+  left: 2px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 2px;
-  position: absolute;
-  top: 86px;
-  width: 25px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-17 {
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
+  position: absolute;
+  width: 291px;
   height: 32px;
+  top: 124px;
   left: 40px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 124px;
-  width: 291px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse-wrapper {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 127px;
+  left: 2px;
   background-color: #fffaf7;
+  border-radius: 12.5px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 2px;
-  position: absolute;
-  top: 127px;
-  width: 25px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse-3 {
+  position: relative;
+  width: 19px;
+  height: 19px;
+  top: 2px;
   background-color: #0f270f;
+  border-radius: 9.5px;
+  left: 2px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 9.5px;
-  height: 19px;
-  left: 2px;
-  position: relative;
-  top: 2px;
-  width: 19px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-18 {
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
+  position: absolute;
+  width: 291px;
   height: 32px;
+  top: 165px;
   left: 40px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 165px;
-  width: 291px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse-4 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 168px;
   background-color: #fffaf7;
+  border-radius: 12.5px;
+  left: 2px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 2px;
-  position: absolute;
-  top: 168px;
-  width: 25px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-19 {
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
+  position: absolute;
+  width: 291px;
   height: 32px;
+  top: 206px;
   left: 40px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 206px;
-  width: 291px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-20 {
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
+  width: 291px;
   height: 32px;
+  top: 246px;
   left: 40px;
+  color: #0f270f;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 246px;
-  width: 291px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-21 {
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
+  position: absolute;
+  width: 291px;
   height: 32px;
+  top: 285px;
   left: 40px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 285px;
-  width: 291px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse-5 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 209px;
   background-color: #fffaf7;
+  border-radius: 12.5px;
+  left: 2px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 2px;
-  position: absolute;
-  top: 209px;
-  width: 25px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse-6 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 249px;
   background-color: #fffaf7;
+  border-radius: 12.5px;
+  left: 2px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 2px;
-  position: absolute;
-  top: 249px;
-  width: 25px;
 }
 
 .CADASTRO-DO-ROTEIRO .ellipse-7 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 288px;
   background-color: #fffaf7;
+  border-radius: 12.5px;
+  left: 2px;
   border: 1px solid;
   border-color: #00000066;
-  border-radius: 12.5px;
-  height: 25px;
-  left: 2px;
-  position: absolute;
-  top: 288px;
-  width: 25px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-22 {
-  -webkit-text-stroke: 1px #000000;
-  color: #0f270f;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 291px;
   height: 32px;
+  top: -1px;
   left: -1px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: -1px;
-  width: 291px;
 }
 
-.CADASTRO-DO-ROTEIRO .adicionar-roteiro-instance {
-  left: 441px !important;
-  position: absolute !important;
-  top: 842px !important;
+.CADASTRO-DO-ROTEIRO .adicionar-roteiro {
+  position: absolute;
+  width: 407px;
+  height: 70px;
+  top: 842px;
+  left: 441px;
+  background-image: url(./img/rectangle-110.svg);
+  background-size: 100% 100%;
+}
+
+.CADASTRO-DO-ROTEIRO .text-wrapper-23 {
+  position: absolute;
+  width: 363px;
+  height: 34px;
+  top: 17px;
+  left: 22px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .CADASTRO-DO-ROTEIRO .input-field {
-  align-items: center;
-  background-color: var(--surface-overlay);
-  border-radius: 5.31px 5.31px 0px 0px;
   display: flex;
-  left: 484px;
+  width: 346px;
+  align-items: center;
   padding: 10.61px 21.23px;
   position: absolute;
   top: 343px;
-  width: 346px;
+  left: 484px;
+  background-color: var(--surface-overlay);
+  border-radius: 5.31px 5.31px 0px 0px;
 }
 
 .CADASTRO-DO-ROTEIRO .input {
+  position: relative;
   flex: 1;
   flex-grow: 1;
   height: 57.38px;
   margin-right: -2px;
-  position: relative;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-group-2 {
-  height: 57px;
   position: relative;
   width: 304px;
+  height: 57px;
 }
 
 .CADASTRO-DO-ROTEIRO .input-autolayout {
-  align-items: center;
   display: flex;
+  width: 292px;
+  align-items: center;
   gap: 5.31px;
-  left: 12px;
   position: absolute;
   top: 25px;
-  width: 292px;
+  left: 12px;
 }
 
 .CADASTRO-DO-ROTEIRO .input-text {
-  color: #0f270f;
-  font-family: "Roboto-Regular", Helvetica;
-  font-size: 21.2px;
-  font-weight: 400;
-  letter-spacing: 0.2px;
-  line-height: 31.8px;
+  position: relative;
+  width: fit-content;
   margin-top: -1.33px;
   opacity: 0.4;
-  position: relative;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #0f270f;
+  font-size: 21.2px;
+  letter-spacing: 0.2px;
+  line-height: 31.8px;
   white-space: nowrap;
-  width: fit-content;
 }
 
 .CADASTRO-DO-ROTEIRO .label {
-  color: #000000;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 26px;
-  font-weight: 400;
+  position: absolute;
+  width: 192px;
+  top: 0;
   left: 0;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 0;
-  width: 192px;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-7 {
-  height: 322px;
-  left: 0;
   position: absolute;
-  top: 0;
   width: 1539px;
+  height: 322px;
+  top: 0;
+  left: 0;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-wrapper {
-  height: 294px;
-  left: 0;
   position: absolute;
-  top: 0;
   width: 1539px;
+  height: 294px;
+  top: 0;
+  left: 0;
 }
 
 .CADASTRO-DO-ROTEIRO .overlap-8 {
-  height: 294px;
   position: relative;
   width: 1531px;
+  height: 294px;
 }
 
 .CADASTRO-DO-ROTEIRO .rectangle-11 {
-  background-color: #3e4533;
-  height: 280px;
-  left: 0;
   position: absolute;
-  top: 0;
   width: 1531px;
+  height: 280px;
+  top: 0;
+  left: 0;
+  background-color: #3e4533;
 }
 
 .CADASTRO-DO-ROTEIRO .icon-cart {
-  height: 44px;
-  left: 1410px;
   position: absolute;
-  top: 165px;
   width: 58px;
+  height: 44px;
+  top: 165px;
+  left: 1410px;
 }
 
 .CADASTRO-DO-ROTEIRO .icon-bell {
-  height: 32px;
-  left: 1352px;
   position: absolute;
-  top: 174px;
   width: 39px;
+  height: 32px;
+  top: 174px;
+  left: 1352px;
 }
 
 .CADASTRO-DO-ROTEIRO .icon-person {
-  height: 45px;
-  left: 1288px;
   position: absolute;
-  top: 165px;
   width: 39px;
+  height: 45px;
+  top: 165px;
+  left: 1288px;
 }
 
 .CADASTRO-DO-ROTEIRO .group-3 {
-  height: 37px;
-  left: 377px;
   position: absolute;
-  top: 166px;
   width: 840px;
-}
-
-.CADASTRO-DO-ROTEIRO .text-wrapper-23 {
-  color: #ffffff;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
-  font-weight: 400;
-  height: 24px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 6px;
-  white-space: nowrap;
-  width: 86px;
+  height: 37px;
+  top: 166px;
+  left: 377px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-24 {
+  width: 86px;
+  height: 24px;
+  top: 6px;
+  left: 0;
   color: #ffffff;
-  font-family: "Scada-Regular", Helvetica;
   font-size: 29px;
+  text-align: center;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Scada-Regular", Helvetica;
   font-weight: 400;
-  height: 36px;
-  left: 145px;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 1px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-25 {
-  color: #ffffff;
+  position: absolute;
+  height: 36px;
+  top: 1px;
+  left: 145px;
   font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
   font-weight: 400;
-  height: 24px;
-  left: 711px;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 9px;
-  white-space: nowrap;
-  width: 119px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-26 {
-  color: #ffffff;
+  position: absolute;
+  width: 119px;
+  height: 24px;
+  top: 9px;
+  left: 711px;
   font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
   font-weight: 400;
-  height: 36px;
-  left: 323px;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 0;
+  white-space: nowrap;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-27 {
-  color: #fffafa;
+  position: absolute;
+  height: 36px;
+  top: 0;
+  left: 323px;
   font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
   font-weight: 400;
-  height: 24px;
-  left: 444px;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 9px;
-  white-space: nowrap;
-  width: 208px;
-}
-
-.CADASTRO-DO-ROTEIRO .rectangle-12 {
-  height: 57px;
-  left: 629px;
-  position: absolute;
-  top: 28px;
-  width: 524px;
-}
-
-.CADASTRO-DO-ROTEIRO .lupa {
-  height: 35px;
-  left: 1104px;
-  object-fit: cover;
-  position: absolute;
-  top: 37px;
-  width: 34px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-28 {
-  color: #ffffff;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
-  font-weight: 400;
+  position: absolute;
+  width: 208px;
   height: 24px;
-  left: 1343px;
+  top: 9px;
+  left: 444px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #fffafa;
+  font-size: 29px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 45px;
   white-space: nowrap;
-  width: 151px;
+}
+
+.CADASTRO-DO-ROTEIRO .rectangle-12 {
+  position: absolute;
+  width: 524px;
+  height: 57px;
+  top: 28px;
+  left: 629px;
+}
+
+.CADASTRO-DO-ROTEIRO .lupa {
+  position: absolute;
+  width: 34px;
+  height: 35px;
+  top: 37px;
+  left: 1104px;
+  object-fit: cover;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-29 {
-  color: #ffffff;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
-  font-weight: 400;
+  position: absolute;
+  width: 151px;
   height: 24px;
-  left: 1171px;
+  top: 45px;
+  left: 1343px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 45px;
   white-space: nowrap;
-  width: 151px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-30 {
-  color: #ffffff;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
-  font-weight: 400;
+  position: absolute;
+  width: 151px;
   height: 24px;
-  left: 367px;
+  top: 45px;
+  left: 1171px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 45px;
   white-space: nowrap;
-  width: 238px;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-31 {
-  color: #ffffff;
-  font-family: "Scada-Regular", Helvetica;
-  font-size: 29px;
-  font-weight: 400;
+  position: absolute;
+  width: 238px;
   height: 24px;
-  left: 37px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
   top: 45px;
-  white-space: nowrap;
-  width: 316px;
-}
-
-.CADASTRO-DO-ROTEIRO .bcaf {
-  height: 244px;
-  left: 77px;
-  object-fit: cover;
-  position: absolute;
-  top: 50px;
-  width: 235px;
-}
-
-.CADASTRO-DO-ROTEIRO .home-central-do {
-  color: transparent;
+  left: 367px;
   font-family: "Scada-Regular", Helvetica;
-  font-size: 25px;
   font-weight: 400;
-  height: 37px;
-  left: 35px;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
   letter-spacing: 0;
   line-height: normal;
-  position: absolute;
-  top: 285px;
-  width: 817px;
+  white-space: nowrap;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-32 {
-  color: #0f270f;
+  position: absolute;
+  width: 316px;
+  height: 24px;
+  top: 45px;
+  left: 37px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CADASTRO-DO-ROTEIRO .bcaf {
+  position: absolute;
+  width: 235px;
+  height: 244px;
+  top: 50px;
+  left: 77px;
+  object-fit: cover;
+}
+
+.CADASTRO-DO-ROTEIRO .home-central-do {
+  position: absolute;
+  width: 817px;
+  height: 37px;
+  top: 285px;
+  left: 35px;
+  font-family: "Scada-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .CADASTRO-DO-ROTEIRO .text-wrapper-33 {
+  color: #0f270f;
+}
+
+.CADASTRO-DO-ROTEIRO .text-wrapper-34 {
   color: #859479;
 }
