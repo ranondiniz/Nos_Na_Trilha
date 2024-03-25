@@ -53,95 +53,122 @@
 	    			<img src="images/banner_parceiros.png">
 	    		</div>
 	    		<div class="card-form-parceiros">
-	    			<h3>Cadastro - Parceiros</h3>
-	    			<form class="form">
+					<form class="form"  
+					action="https://formspree.io/f/mpzvjgaa" 
+					method="POST">
+						<h3 class="title_personalizado">Cadastro - Parceiros</h3>
 	    				<div class="form-line">
 	    					<div class="box-form-line">
-	    						<label >Nome</label>
-	    						<input class="input" type="text" name="">
+								<label>
+									Nome/Razão Social
+									<input class="input" type="text" name="Nome/Razão Social">
+								</label>
 	    					</div>
-	    					<div class="box-form-line">
-	    						<label class="label-line">Sobrenome</label>
-	    						<input class="input-line input" type="text" name="">
-	    					</div>
-	    				</div>
-	    				<label>E-mail</label>
-	    				<input class="input" type="email" name="">
-
-	    				<label>Número de telefone</label>
-	    				<input class="input" type="text" name="">
-
-	    				<label>Senha</label>
-	    				<input class="input" type="password" name="">
-
-	    				<label>Confirmar senha</label>
-	    				<input class="input" type="password" name="">
-
+						</div>
+	    				<label>
+							E-mail
+							<input class="input" type="email" name="Email">
+						</label>
+	    				<label>
+							Número de telefone
+							<input class="input" type="text" name="Número de telefone">
+						</label>
+						
+						<h3 class="title_personalizado">Endereço</h3>
 	    				<div class="form-line">
+							<div class="box-form-line">
+								<label>
+									CEP
+									<input class="input" type="text" name="CEP">
+								</label>
+							</div>
 	    					<div class="box-form-line">
-	    						<label>Endereço</label>
-	    						<input class="input-line-tall input" type="text" name="">
+	    						<label>
+									Estado
+									<input class="input" type="text" name="Estado">
+								</label>
 	    					</div>
 	    					<div class="box-form-line">
-	    						<label class="label-line-small">CEP</label>
-	    						<input class="input-line-small input" type="text" name="">
+	    						<label>
+									Cidade
+									<input class="input" type="text" name="Cidade">
+								</label>
 	    					</div>
 	    				</div>
-	    			</form>
-
-	    			<div class="card-sobre-parceiros">
-		    			<h3>Sobre sua Empresa</h3>
-		    			<form class="form-sobre">
-                            <div class="box-form-sobre">
-                                <input class="radio left" type="checkbox" id="autonomo" name="autonomo">
-                                <label for="autonomo">Sou autônomo</label>
-                            </div>
-		    				<label>CNPJ / MEI</label>
-	    					<input id="input" class="input" type="text" name="">
+						<div class="form-line">
+	    					<div class="box-form-line">
+	    						<label>
+									Número
+									<input class="input" type="text" name="Número">
+								</label>
+	    					</div>
+	    				</div>
+						
+						<div class="card-sobre-parceiros">
+		    			<h3 class="title_personalizado">Sobre sua Empresa</h3>
+		    			<div class="form-sobre" id="fs-frm">
+		    				<label>
+								CNPJ / MEI
+								<input id="input" class="input" type="text" name="CNPJ/MEI">
+							</label>
 	    					
-	    					<span>Qual o porte da sua empresa?</span>
-	    					<div class="box-form-sobre">
-	    						<input class="radio left" type="radio" name="Pequeno" value="Pequeno">
-	    						<label>Pequeno</label>
-		    					<input class="radio" type="radio" name="Médio" value="Médio">
-		    					<label>Médio</label>
-		    					<input class="radio " type="radio" name="Grande" value="Grande">
-		    					<label>Grande</label>
-		    				</div>
+							<label>Porte da sua empresa</label>
+							<select id="opcoes">
+							  <option>Selecione</option>
+							  <option>Pequeno</option>
+							  <option>Médio</option>
+							  <option>Grande</option>
+							</select>
 		    				<br>
 	    					<span>Qual/quais tipo(s) de serviço sua empresa oferece?</span>
 	    					<div class="box-form-sobre">
-	    						<input class="radio left" type="checkbox" name="Pequeno" value="Pequeno">
+	    						<input class="radio left" 
+								type="checkbox" 
+								name="Transporte" 
+								value="Transporte">
 	    						<label>Transporte</label>
-		    					<input class="radio" type="checkbox" name="Médio" value="Médio">
+		    					<input class="radio" 
+								type="checkbox" 
+								name="Equipamentos de Escalada" 
+								value="Equipamentos de Escalada">
 		    					<label>Equipamentos de Escalada</label>
-		    					<input class="radio " type="checkbox" name="Grande" value="Grande">
+		    					<input class="radio" 
+								type="checkbox"
+								 name="Hospedagem" 
+								 value="Hospedagem">
 		    					<label>Hospedagem</label>
-                                <input class="radio " type="checkbox" name="Grande" value="Grande">
-		    					<label>Outro</label>
 		    				</div>
                             <label>Caso outro, qual?</label>
-	    					<input id="input" class="input" type="text" name="">
+	    					<input id="input" class="input" type="text" name="Outro tipo de serviço">
 	    					<br>
 	    					<span>Escolha seu plano de assinatura</span>
 	    					<div>
-	    						<div class="box-form-sobre-radio">
-	    							<input class="radio left" type="radio" name="Pequeno" value="Pequeno">
-	    							<label>Plano Simples | R$ 20,00 </label>
+								<div class="box-form-sobre-radio">
+									<label>
+										<input class="radio left"  type="radio" name="Plano de Assinatura Simples">
+										Plano Simples | R$ 20,00 
+									</label>
 	    						</div>
 	    						<div class="box-form-sobre-radio">
-	    							<input class="radio left" type="radio" name="Médio" value="Médio">
-		    						<label>Plano Silver | R$ 50,00</label>
+		    						<label>
+										Plano Silver | R$ 50,00
+										<input class="radio left"  type="radio" name="Plano de Assinatura Silver">
+									</label>
 	    						</div>
 	    						<div class="box-form-sobre-radio">
-	    							<input class="radio left" type="radio" name="Grande" value="Grande">
-		    						<label>Plano Gold | R$ 100,00</label>
+		    						<label>
+										Plano Gold | R$ 100,00
+										<input class="radio left"  type="radio" name="Plano de Assinatura Gold">
+									</label>
 	    						</div>
 		    				</div>
 		    				<p>*Informações sobre os planos</p>
-		    			</form>
-		    		</div>
-		    		<input class="sobre-submit" type="submit" name="" value="Registrar">
+		    			</div>
+						</div>
+						<div id="btn_enviar">
+							<input type="submit" value="Enviar" >
+						</div>
+					</form>
 		    		<div class="clear"></div><!-- Limpeza da fltuação -->
 	    		</div>
     		</div>
@@ -176,5 +203,7 @@
             </section>
         </footer>
     </main>
+
+	<script src="cadastro_parceiros.js"></script>
 </body>
 </html>

@@ -46,6 +46,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    gap: 14px;
     width: 100%;
 }
 
@@ -74,14 +75,6 @@
     width: 140%;
 }
 
-.label-line-small{
-    margin-left: 50%;
-}
-
-.input-line-small{
-    width: 50%;
-    margin-left: 50%;
-}
 
 .card-sobre-parceiros{
     padding: 0 2em;
@@ -92,6 +85,14 @@
     color: #859479;
     text-align: left;
 
+}
+
+#opcoes {
+    height: 40px;
+    border: none;
+    font-size: 1em;
+    border-radius: 20px;
+    background-color: #859479;
 }
 
 .box-form-sobre{
@@ -121,17 +122,20 @@
     color: black;
 }
 
-.sobre-submit{
+#btn_enviar {
+    text-align: end;
+}
+
+#btn_enviar input {
     background-color: #0F270F;
     width: 100px;
     height: 40px;
     cursor: pointer;
     font-size: 16px;
-    padding-left: 2%;
-    float: right;
     border-top-left-radius: 50px;
     color: #ffffff;
 }
+
 .clear{
     clear: both;
 }
